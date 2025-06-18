@@ -1,5 +1,5 @@
 # Effects of Geopolitical Strain on Global Pharmaceutical Supply Chain Design and Drug Shortages
-Repository for data and code related to the paper "Effects of Geopolitical Strain on Global Pharmaceutical Supply Chain Design and Drug Shortages"
+Repository for data and code related to the paper "Effects of Geopolitical Strain on Global Pharmaceutical Supply Chain Design and Drug Shortages" (https://doi.org/10.1016/j.ejor.2025.05.002)
 
 # Article Authors
 Martha L. Sabogal De La Pava and Emily L. Tucker
